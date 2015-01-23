@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Kita hanya bisa memberantas malaria jika memahaminya. Bacalah tentang penyakit ini, yang menjangkiti 32 juta orang di Asia setiap tahun.", 
+  "language": "ind_ID", 
+  "title": "Apa itu malaria?", 
+  "primary_category": "5cb9f007c3684496b8e06501de717a1a", 
+  "created_at": "2015-01-23T15:09:44.144591+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-01-23T15:09:44.144870+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Sangat mungkin terdapat kasus malaria di dekat Anda, karena lebih dari 2 miliar orang di Asia berisiko. Tetapi, sebelum kita bisa melawan malaria, kita perlu memahaminya.\r\n\r\n**Malaria itu parasit**\r\n\r\nMalaria disebabkan oleh parasit \u2013 makhluk hidup yang menggunakan makhluk hidup lain, misalnya tubuh manusia, sebagai makanan dan tempat tinggal. Untuk mengalahkan penyakit ini, kita perlu membunuh parasit di dalam tubuh manusia melalui tes dan pengobatan secara aktif.\r\n\r\n**Ditularkan oleh nyamuk**\r\n\r\nNyamuk Anopheles adalah jenis nyamuk yang menularkan malaria. Nyamuk ini biasanya menggigit pada malam hari, antara pukul 9 malam dan 5 pagi. Itu sebabnya kita harus tidur di dalam kelambu setiap malam.\r\n\r\n**Malaria paling berbahaya bagi ibu hamil dan anak-anak**\r\n\r\nMalaria dapat menjangkiti siapa saja, tetapi terutama ibu hamil dan anak-anak perlu dilindungi, karena lebih mungkin meninggal akibat penyakit ini. Lebih dari 200.000 bayi baru lahir meninggal setiap tahun akibat malaria saat kehamilan.\r\n\r\n**Apa saja gejalanya?**\r\n\r\nGejala awalnya dapat terasa sejak seminggu setelah tertular, atau dapat pula hingga sebulan kemudian. Ini termasuk menggigil, sakit kepala, pegal, lelah, mual, muntah, dan diare.\r\n\r\nJika tidak diobati, gejala yang parah, seperti koma dan kematian, dapat terjadi.\r\n\r\n***Jika Anda mengalami gejala ini, segera ke puskesmas!***\r\n\r\n**Malaria itu masalah penting**\r\n\r\nMalaria dapat berdampak pada kehidupan di sekitar Anda dan merusak perekonomian negara. Baca mengapa malaria itu masalah penting.", 
+  "source": "dad9504deb3d43d28bfa0caab3bd957f", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "apa-itu-malaria", 
+  "uuid": "9697d10f232d498ea55d6872f936b6e7"
+}
