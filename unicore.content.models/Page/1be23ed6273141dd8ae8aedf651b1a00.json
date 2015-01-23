@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Baca tentang dampak malaria bagi rakyat Indonesia", 
+  "language": "ind_ID", 
+  "title": "Malaria di Indonesia", 
+  "primary_category": "5cb9f007c3684496b8e06501de717a1a", 
+  "created_at": "2015-01-23T15:25:29.352999+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-01-23T15:25:29.353167+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Indonesia telah meraih banyak kemajuan dalam upaya memberantas malaria, tetapi penyakit ini masih merupakan masalah besar. Berikut ini dampak malaria di Indonesia pada 2012:\r\n\r\n - 61% populasi Indonesia tinggal di wilayah berisiko yang dihuni parasit malaria.\r\n\r\n - Diperkirakan 5.600.000 orang terjangkit penyakit ini, dan 9.400 meninggal, hanya akibat digigit nyamuk.\r\n\r\n - Malaria juga merugikan perekonomian Indonesia sekitar 14,7 triliun rupiah dalam bentuk kehilangan produktivitas dan biaya pengobatan.\r\n\r\n**Resistansi obat di Indonesia**\r\n\r\nResistansi terhadap obat malaria juga merupakan ancaman bagi Indonesia.   Resistansi obat dapat terjadi karena beberapa hal:\r\n\r\n - Orang tidak menghabiskan obat malaria yang diresepkan.  Meskipun sudah merasa sehat, mereka masih membawa parasit malaria, yang kini lebih resistan terhadap obat malaria.\r\n\r\n - Orang yang mengidap penyakit lain makan obat malaria karena mengira dirinya sakit malaria.  Ini dapat menyebabkan tubuh menjadi resistan terhadap obat tersebut. Pastikan Anda dites sebelum meminta obat!\r\n\r\n - Jika orang terkena jenis malaria yang resistan terhadap obat, pengobatannya tidak akan terlalu efektif, dan orang itu dapat terus membawa parasitnya.  Nyamuk dapat menggigit si pembawa dan menyebarkan malaria yang resistan-obat itu ke orang di sekitarnya.\r\n\r\nJika malaria yang resistan-obat menyebar ke seluruh negara, ini dapat menimbulkan wabah penyakit besar - yang akan menyebabkan naiknya angka kematian akibat malaria.  Tetapi, Anda dapat turut melawan resistansi obat.\r\n\r\n**Begini cara untuk membantu**\r\n\r\nAnda dapat membantu melindungi keluarga, serta negara Anda, dari malaria dan resistansi obat dengan mengambil beberapa langkah mudah:\r\n\r\n - Pastikan seluruh keluarga tidur di dalam kelambu setiap malam.\r\n\r\n - Minta tes, lalu obat, dari dokter atau mantri begitu muncul gejala malaria.\r\n\r\n - Jika diberi obat, habiskan obatnya!\r\n\r\nUntuk membaca selengkapnya tentang malaria di negara Anda, kunjungi program malaria Indonesia.", 
+  "source": "84ecab60a8b64c70b7641b673a7921c1", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "malaria-di-indonesia", 
+  "uuid": "1be23ed6273141dd8ae8aedf651b1a00"
+}
