@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Jika terkena malaria, Anda harus segera berobat. Kalau tidak diobati, malaria dapat menyebabkan kematian.", 
+  "language": "ind_ID", 
+  "title": "Cara mengobati malaria", 
+  "primary_category": "5cb9f007c3684496b8e06501de717a1a", 
+  "created_at": "2015-01-23T15:18:06.351718+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-01-23T15:18:06.351921+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Jika mengalami gejala malaria, Anda harus segera berobat demi kesehatan Anda sendiri dan kesehatan masyarakat sekitar.\r\n\r\n**Cari puskesmas... segera!**\r\n\r\nSekalipun Anda tidak yakin tentang gejalanya, segera cari puskesmas atau hubungi mantri terdekat!  Menunda-nunda tidak sebanding dengan risikonya. Malaria jauh lebih berbahaya jika tidak diobati.\r\n\r\n**Minta tes**\r\n\r\nTes Diagnostik Cepat (RDT) dapat menghasilkan diagnosis yang tepat dalam 15 menit. Ini biasanya tersedia di puskesmas - kadang mantri dapat melakukan tes langsung di desa!\r\n\r\n**Minta obat**\r\n\r\nPuskesmas atau mantri biasanya memiliki persediaan obat malaria. Dalam kasus normal, malaria dapat disembuhkan hanya dalam beberapa hari, tetapi dokter Anda pasti lebih tahu!\r\n\r\n**HABISKAN obatnya**\r\n\r\nIngat, kalau obat tidak dihabiskan, malaria masih mendekam dalam tubuh Anda dan mengancam orang-orang di sekitar. Nyamuk masih bisa tertular malaria dari tubuh Anda, lalu menulari orang yang digigitnya. Jadi, meskipun Anda sudah merasa sehat, pikirkan keluarga dan teman dan habiskan obatnya!", 
+  "source": "bdec35f7e71948578ade094bd7639dcd", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "cara-mengobati-malaria", 
+  "uuid": "ca28abe22bb04000be0452999d5c995b"
+}
